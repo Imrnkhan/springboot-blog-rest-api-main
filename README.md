@@ -31,3 +31,23 @@ Link - https://courses.javaguides.net/p/building-rest-api-with-spring-boot
 - Learn versioning REST APIs
 - Learn Important 4 versioning REST API strategies
 - Deploy Spring Boot Blog App on AWS Cloud
+
+
+### Build Rest API for Blog Application
+
+- User able to List, Create, update and delete posts
+- User should able to perform pagination and sorting on posts
+- User should able to add, delete , update comments for post
+- User should able to Register to Blog App
+- User should able to login to Blog App
+
+ 
+
+### Rest API for Post Resource
+
+
+![image](https://user-images.githubusercontent.com/95843558/221268521-bfdccc97-9f3b-45c0-b56e-7bac45f4481e.png)
+
+
+![image](https://user-images.githubusercontent.com/95843558/221268360-0fe0f629-c2e1-4622-9423-4c7ad3b77f11.png)
+
