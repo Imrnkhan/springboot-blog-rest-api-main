@@ -46,6 +46,7 @@ Link - https://courses.javaguides.net/p/building-rest-api-with-spring-boot
 ### Rest API for Post Resource
 
 
+![image](https://user-images.githubusercontent.com/95843558/221268892-98f07a15-a756-44a8-a9c4-6197e8af8690.png)
 
 
 ![image](https://user-images.githubusercontent.com/95843558/221268360-0fe0f629-c2e1-4622-9423-4c7ad3b77f11.png)
